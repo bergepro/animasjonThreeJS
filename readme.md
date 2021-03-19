@@ -1,7 +1,10 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+Animation made with ThreeJS
 
-## Setup
+coming live on adress:tba
+
+
+## Setup for own use:
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
